@@ -1,6 +1,12 @@
+import * as estilo from './styles';
+
 function Home() {
   return (
-    <div><h1>Hello Word</h1></div>
+    <div>
+      <estilo.Wrapper background='blue'>
+        <h1>Hello Word</h1>
+      </estilo.Wrapper>
+    </div>
   )
 }
 
