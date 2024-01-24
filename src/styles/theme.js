@@ -1,15 +1,16 @@
 export const theme = {
     colors: {
-        mainBg: 'lightgreen',
+        mainBg: 'red',
         secondaryBg: 'blue',
     },
 
-    fonts: {
-
+    font: {
+        family: {
+            default: "'Open Sans', sans-serif",
+            secondary: "'Montserrat', sans-serif",
+        }
     },
 
-    spacins: {
-
-    }
+    
 
 };

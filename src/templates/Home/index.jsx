@@ -4,7 +4,7 @@ function Home() {
   return (
     <div>
       <estilo.Wrapper background='blue'>
-        <h1>Hello Word</h1>
+        <h1>O texto que eu quero</h1>
       </estilo.Wrapper>
     </div>
   )
